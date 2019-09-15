@@ -1,0 +1,2 @@
+include ':app', ':regex'
+rootProject.name='RegexUtils'
