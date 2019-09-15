@@ -13,7 +13,7 @@
 - Add the dependency
 ```
 	dependencies {
-	        implementation 'com.github.AndroidRookie706:RegexUtils:Tag'
+	        implementation 'com.github.AndroidRookie706:RegexUtils:1.0'
 	}
 
 ```
